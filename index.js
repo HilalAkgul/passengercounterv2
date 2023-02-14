@@ -9,7 +9,7 @@ if( gecmisBilgi !== null) {
     saveEl.textContent = ""
 }
 
-
+ 
 let countEl = document.getElementById("count-el")
 
 let count = 0
